@@ -1,8 +1,10 @@
 # Weather-app
 
 This application was developed using Bootstrap 4.3.1, HTML5, CSS3, JavaScript, JQuery, AJAX API and DOM.<br>
+
 link to app: https://joshhallrva.github.io/Weather-app/<br>
-link to gitgub: https://github.com/JoshHallRVA/Weather-app
+link to gitgub: https://github.com/JoshHallRVA/Weather-app<br>
+
 User Story<br>
 AS A traveler<br>
 I WANT to see the weather outlook for multiple cities<br>
