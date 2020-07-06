@@ -23,4 +23,4 @@ WHEN I open the weather dashboard<br>
 THEN I am presented with the last searched city forecast<br>
 
 Attached is a screenshot of the deployed application<br>
-![screenshot](scrn.png"Description goes here")
+![](scrn.png)
